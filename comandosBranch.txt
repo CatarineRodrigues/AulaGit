@@ -1,0 +1,23 @@
+Comandos de branchs criação de branch: git chekout -b nomeDaBranch
+
+listagem das branchs: git branch -v
+
+alternar entre branchs existentes: git checkout nomeDaBranch
+
+criação de branch: git chekout -b nomeDaBranch
+
+listagem das branchs: git branch -v
+
+alternar entre branchs existentes: git checkout nomeDaBranch
+Comandos de branchs criação de branch: git chekout -b nomeDaBranch
+
+listagem das branchs: git branch -v
+
+alternar entre branchs existentes: git checkout nomeDaBranch
+
+criação de branch: git chekout -b nomeDaBranch
+
+listagem das branchs: git branch -v
+
+alternar entre branchs existentes: git checkout nomeDaBranch
+Colar atalhos branch
